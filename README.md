@@ -2,7 +2,6 @@
 
 ---
 
-
 - [About Me](#about-me)
 - [My Papers](#my-papers)
 - [YouTube Videos](#youtube-videos)
