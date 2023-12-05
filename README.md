@@ -3,7 +3,7 @@
 
 # Ariane Soret - Personal Website
 
----
+--- 
 
 - [About](#about)
 - [Papers](#papers)
