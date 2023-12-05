@@ -1,3 +1,6 @@
+<div style="max-width: 800px; margin: 0 auto;">
+    <!-- Your content goes here -->
+
 # Ariane Soret - Personal Website
 
 ---
@@ -51,3 +54,4 @@ Here are videos of talks given at international conferences.
 
 ariane.soret (at) gmail.com
 
+</div>
