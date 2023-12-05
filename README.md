@@ -2,9 +2,10 @@
 
 ---
 
-- [About Me](#about-me)
-- [My Papers](#my-papers)
-- [YouTube Videos](#youtube-videos)
+- [About](#about)
+- [Papers](#papers)
+- [Videos](#videos)
+- [Teaching and outreach activities](#teaching-and-outreach-activities)
 
 --- 
 
