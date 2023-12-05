@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-
+<img src="selfie.png" style="float: left;" alt="drawing" width="300"/> 
 Hey there! I'm [Your Name], a passionate [Your Profession/Interest]. Welcome to my personal webpage! Here, you'll find information about my work, projects, and interests.
 
 I am enthusiastic about [mention your key interests, areas of expertise, or what you're currently studying/working on].
