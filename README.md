@@ -39,7 +39,7 @@ Here are videos of talks given at international conferences.
 ## Teaching and outreach activities
 
 - Chapter 10 in [Methods and Conversations in (Post) Modern Thermodynamics](https://arxiv.org/pdf/2311.01250.pdf), a set of lecture notes from the winter school [(Post)Modern Thermodynamics](https://postmodernthermo.wordpress.com/), University of Luxembourg, December 2022, 5-7
-- Superconductivity lab class, Ecole Polytechnique, 2018-2019, <a href="/SC-broken-sym.pdf"> slides (in French) introducing conventional superconductivity as a U(1) symmetry breaking
+- Superconductivity lab class, Ecole Polytechnique, 2018-2019, <a href="/SC-broken-sym.pdf"> (slides) (in French) introducing conventional superconductivity as a U(1) symmetry breaking
 - Superconductivity lab class, Ecole Polytechnique, 2017-2018, <a href="/SC-broken-sym.pdf"> slides (in French) on non conventional superconductivity
 
 ## Community
