@@ -2,7 +2,6 @@
 
 ---
 
-## Menu
 
 - [About Me](#about-me)
 - [My Papers](#my-papers)
