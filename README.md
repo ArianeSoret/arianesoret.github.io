@@ -41,6 +41,11 @@ Here are videos of talks given at international conferences.
 - Superconductivity lab class, Ecole Polytechnique, 2018-2019, <a href="/SC-broken-sym.pdf"> slides (in French) introducing conventional superconductivity as a U(1) symmetry breaking
 - Superconductivity lab class, Ecole Polytechnique, 2017-2018, <a href="/SC-broken-sym.pdf"> slides (in French) on non conventional superconductivity
 
+## Community
+
+- Member of the Quantum Energy Initiative ([QEI](https://quantum-energy-initiative.org/)) since its creation in 2022; this community unites scientists (from academia and industry) with a particular interest for the physical resource cost of emerging quantum technologies;
+- Member of the Société Française de Physique ([SFP](https://www.sfpnet.fr/)) since 2020;
+
 ## Contact 
 
 ariane.soret (at) gmail.com
