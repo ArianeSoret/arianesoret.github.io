@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="selfie.png" style="float: left;" alt="drawing" width="300"/>  About Me
+## <img src="selfie.png" style="float: left;" alt="drawing" width="200"/>  About Me
 
 Hey there! I'm [Your Name], a passionate [Your Profession/Interest]. Welcome to my personal webpage! Here, you'll find information about my work, projects, and interests.
 
