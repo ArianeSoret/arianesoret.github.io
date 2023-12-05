@@ -9,9 +9,7 @@
 ---
 
 ## <img src="selfie.png" style="float: left;" alt="drawing" width="200"/>  About Me 
-Hey there! I'm [Your Name], a passionate [Your Profession/Interest]. Welcome to my personal webpage! Here, you'll find information about my work, projects, and interests.I am enthusiastic about [mention your key interests, areas of expertise, or what you're currently studying/working on].
-
-Feel free to explore and reach out if you have any questions or just want to connect!
+I am a research scientist at the University of Luxembourg, in the group of [Massimiliano Esposito](https://sites.google.com/site/massimilianoespositogennaro/home)
 
 ---
 
