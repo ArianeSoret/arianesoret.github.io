@@ -31,7 +31,7 @@ Here are some of my papers which illustrate each of my research interests, past 
 
 Here are videos of talks given at international conferences.
 
-- [Quantum Energy Initiative 2023 Workshop, Singapore, Nov 2023, "Thermodynamics of coherent energy exchanges between lasers and atoms"](https://www.youtube.com/watch?v=c56WOCmccCs&list=PLjqlGitBPAYCCeSyhNTeThuHFYtsS44Bq&index=24&t=517s)
+- [Quantum Energy Initiative 2023 Workshop, Singapore, Nov 2023, "Thermodynamics of coherent energy exchanges between lasers and atoms"](https://youtu.be/c56WOCmccCs?si=Q8EMjbNYzR8pgxRV)
 - [Quantum Thermodynamics Conference 2022, June 2022, "Thermodynamic consistency in open quantum systems: from exact identities to quantum master equations"](https://www.youtube.com/watch?v=zwIlNHgKnRg)
 
 
