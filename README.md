@@ -9,7 +9,7 @@
 --- 
 
 ## <img src="selfie.png" style="float: left;" alt="drawing" width="200"/>  About Me 
-I am a research scientist at the [University of Luxembourg](https://www.uni.lu/fstm-en/research-departments/department-of-physics-materials-science/), in the group of [Massimiliano Esposito](https://sites.google.com/site/massimilianoespositogennaro/home). My research interests include quantum thermodynamics, quantum optics, mesoscopic physics, statistical mechanics and many-body quantum systems. The common denominator of my research accross these fields is the study of light far from equilibrium, in classical, semi-classical and quantum models. My latest works focus on adapting the methods of stochastic thermodynamics to study energy fluctuations of photons interacting with quantum systems, in particular in far from equilibrium regimes and non linear regimes.  
+I am a research scientist at the [University of Luxembourg](https://www.uni.lu/fstm-en/research-departments/department-of-physics-materials-science/), in the group of [Prof. Massimiliano Esposito](https://sites.google.com/site/massimilianoespositogennaro/home). My research interests include quantum thermodynamics, quantum optics, mesoscopic physics, statistical mechanics and many-body quantum systems. The common denominator of my research accross these fields is the study of light far from equilibrium, in classical, semi-classical and quantum models. My latest works focus on adapting the methods of stochastic thermodynamics to study energy fluctuations of photons interacting with quantum systems, in particular in far from equilibrium regimes and non linear regimes.  
 
 A complete CV in <a href="/CV_Soret_english.pdf"> PDF.
 
