@@ -1,4 +1,4 @@
-<div style="max-width: 2000px; margin: 0 auto;">
+<div style="max-width: 70%; margin: 0 auto;">
 
 # Ariane Soret - Personal Website 
 
