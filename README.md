@@ -1,7 +1,7 @@
 <div style="max-width: 800px; margin: 0 auto;">
     <!-- Your content goes here -->
 
-# Ariane Soret - Personal Website
+# Ariane Soret - Personal Website 
 
 --- 
 
