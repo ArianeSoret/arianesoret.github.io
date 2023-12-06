@@ -1,4 +1,3 @@
-
 # Ariane Soret - Personal Website
 
 --- 
