@@ -15,7 +15,7 @@ I am a research scientist at the [University of Luxembourg](https://www.uni.lu/f
 A complete CV in <a href="/CV_Soret_english.pdf"> PDF.
 
 ---
-
+ 
 ## Papers
 
 Here are some of my papers which illustrate each of my research interests, past and present. The complete list of my publications is on my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=fr&hl=fr&user=u_wKph8AAAAJ) page.
