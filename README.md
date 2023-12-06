@@ -52,6 +52,6 @@ Here are videos of talks given at international conferences.
 
 ## Contact 
 
-ariane.soret (at) gmail.com
+ariane.soret (at) gmail.com 
 
 </div>
