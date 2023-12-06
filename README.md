@@ -10,7 +10,7 @@
 
 --- 
  
-## <img src="selfie.png" style="float: left;" alt="drawing" width="200"/>  About Me 
+# <img src="selfie.png" style="float: left;" alt="drawing" width="200"/>  About Me 
 I am a research scientist at the [University of Luxembourg](https://www.uni.lu/fstm-en/research-departments/department-of-physics-materials-science/), in the group of [Prof. Massimiliano Esposito](https://sites.google.com/site/massimilianoespositogennaro/home). My research interests include quantum thermodynamics, quantum optics, mesoscopic physics, statistical mechanics and many-body quantum systems. The common denominator of my research accross these fields is the study of light far from equilibrium, in classical, semi-classical and quantum models. My latest works focus on adapting the methods of stochastic thermodynamics to study energy fluctuations of photons interacting with quantum systems, in particular in far from equilibrium regimes and non linear regimes.  
 In terms of methods, I resort to counting statistics, master equations, quantum dynamical semigroups, Green's functions, diagrammatic approaches, larges deviations and paths integrals techniques.
 
@@ -18,7 +18,7 @@ A complete CV in <a href="/CV_Soret_english.pdf"> PDF.
 
 ---
  
-## Papers
+# Papers
 
 Here are some of my papers which illustrate each of my research interests, past and present. The complete list of my publications is on my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=fr&hl=fr&user=u_wKph8AAAAJ) page.
 
@@ -30,7 +30,7 @@ Here are some of my papers which illustrate each of my research interests, past 
   
 ---
 
-## Videos
+# Videos
 
 Here are videos of talks given at international conferences.
 
@@ -38,13 +38,13 @@ Here are videos of talks given at international conferences.
 - [Quantum Thermodynamics Conference 2022, June 2022, "Thermodynamic consistency in open quantum systems: from exact identities to quantum master equations"](https://www.youtube.com/watch?v=zwIlNHgKnRg)
 
 
-## Teaching and outreach activities
+# Teaching and outreach activities
 
 - Chapter 10 in [Methods and Conversations in (Post) Modern Thermodynamics](https://arxiv.org/pdf/2311.01250.pdf), a set of lecture notes from the winter school [(Post)Modern Thermodynamics](https://postmodernthermo.wordpress.com/), University of Luxembourg, December 2022, 5-7
 - Superconductivity lab class, Ecole Polytechnique, 2018-2019; <a href="/SC-broken-sym.pdf"> slides</a> (in French) introducing conventional superconductivity as a U(1) symmetry breaking
 - Superconductivity lab class, Ecole Polytechnique, 2017-2018; <a href="/SC-broken-sym.pdf"> slides</a> (in French) on non conventional superconductivity
 
-## Community
+# Community
 
 - Member of the Quantum Energy Initiative ([QEI](https://quantum-energy-initiative.org/)) since its creation in 2022; this community unites scientists (from academia and industry) with a particular interest for the physical resource cost of emerging quantum technologies;
 - Member of the Société Française de Physique ([SFP](https://www.sfpnet.fr/)) since 2020.
