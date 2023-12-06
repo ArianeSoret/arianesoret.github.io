@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ariane Soret, personal website"
+---
+
 # Ariane Soret - Personal Website
 
 --- 
