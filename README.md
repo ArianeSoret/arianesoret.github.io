@@ -9,7 +9,7 @@
 --- 
  
 # <img src="selfie.png" style="float: left;" alt="drawing" width="200"/>  About Me 
-I am a research scientist at the [University of Luxembourg](https://www.uni.lu/fstm-en/research-departments/department-of-physics-materials-science/), in the group of [Prof. Massimiliano Esposito](https://sites.google.com/site/massimilianoespositogennaro/home). My research interests include quantum thermodynamics, quantum optics, mesoscopic physics, statistical mechanics and many-body quantum systems. The common denominator of my research accross these fields is the study of light far from equilibrium, in classical, semi-classical and quantum models. My latest works focus on adapting the methods of stochastic thermodynamics to study energy fluctuations of photons interacting with quantum systems, in particular in far from equilibrium regimes and non linear regimes.  
+I am a research scientist at the [University of Luxembourg](https://www.uni.lu/fstm-en/research-departments/department-of-physics-materials-science/), in the group of [Prof. Massimiliano Esposito](https://sites.google.com/site/massimilianoespositogennaro/home). My research interests include quantum thermodynamics, quantum optics, mesoscopic physics, statistical mechanics and many-body quantum systems. The motivation of most of my research accross these fields is the study of light far from equilibrium, in classical, semi-classical and quantum models. My latest works focus on adapting the methods of stochastic thermodynamics to study energy fluctuations of photons interacting with quantum systems, in particular in far from equilibrium regimes and non linear regimes.  
 In terms of methods, I resort to counting statistics, master equations, quantum dynamical semigroups, Green's functions, diagrammatic approaches, larges deviations and paths integrals techniques.
 
 A complete CV in <a href="/CV_Soret_english.pdf"> PDF.
@@ -44,10 +44,10 @@ Here are videos of talks given at international conferences.
 
 # Community
 
-- Member of the Quantum Energy Initiative ([QEI](https://quantum-energy-initiative.org/)) since its creation in 2022; this community unites scientists (from academia and industry) with a particular interest for the physical resource cost of emerging quantum technologies;
+- Member of the Quantum Energy Initiative ([QEI](https://quantum-energy-initiative.org/)) since its creation in 2022; this community unites scientists (from academia and industry) with a particular interest for the physical resource cost of emerging quantum technologies.
 - Member of the Société Française de Physique ([SFP](https://www.sfpnet.fr/)) since 2020.
 
-## Contact 
+# Contact 
 
 ariane.soret (at) gmail.com 
 
