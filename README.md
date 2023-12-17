@@ -4,7 +4,9 @@
 - [About](#about)
 - [Papers](#papers)
 - [Videos](#videos)
-- [Teaching and outreach activities](#teaching-and-outreach-activities)
+- [Teaching/Outreach](#teaching-outreach)
+- [Community](#community)
+- [Contact](#contact)
 
 --- 
  
